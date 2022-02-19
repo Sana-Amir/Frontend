@@ -31,7 +31,7 @@ ul {
 }
 
 body{
-	background: url('https://c4.wallpaperflare.com/wallpaper/55/891/733/photography-sunset-sky-clouds-wallpaper-preview.jpg') no-repeat center;
+	background: url('https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/perfume-bottle-with-aromatic-floral-scent-luxury-fragrance-anne-leven.jpg') no-repeat center;
 	background-size: cover;
 	width: 100%;
 	height: 100vh;
@@ -50,13 +50,13 @@ body{
 .wrapper h1{
 	margin-bottom: 40px;
 	font-size: 42px;
-	color: #ffffff;
+	color: #47032b;
 	text-shadow: 2px 2px #ff0000;
 }
 
 .wrapper p{
 	margin-bottom: 40px;
-	color: #b2b2b2;
+	color: #080808;
 	font-size: 20px;
 }
 
@@ -87,7 +87,7 @@ body{
 	top: 50%;
 	transform: translateY(-50%);
 	right: 30px;
-	background: #f74d56;
+	background: #d1333b;
 	padding: 15px 20px;
 	border-radius: 25px;
 	font-size: 12px;
