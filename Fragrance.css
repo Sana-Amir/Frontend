@@ -1,10 +1,25 @@
 
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+
+.bottom-right {
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+}
+
 h1 {
     margin-top: 20px;
     font-family: "Brush Script MT", cursive;
     font-size: 50px;
-    text-shadow: 2px 2px #f11616;
-    margin-top: 20px;
+    text-shadow: 2px 2px #EEE8AA;
+    color:	#D4AF37;
+    margin-top: 10px;
   }
   
   
